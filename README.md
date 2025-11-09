@@ -108,6 +108,6 @@ Analysis of customer bevaior, retention, and lifetime value for an e-commerce co
 ## Technical Details
 
 - **Database:** PostgreSQL
-- **Analysis Tool:** PostgreSQL
+- **Analysis Tool:** PostgreSQL, Dbeaver, PGadmin
 - **ETL:** PostgreSQL, Power Query
 - **Visualization:** Tableau, Excel, Pivot Chart
